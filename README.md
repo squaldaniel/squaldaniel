@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @squaldaniel
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP, vuejs and Python
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
